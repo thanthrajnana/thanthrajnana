@@ -1,5 +1,5 @@
-import SectionHeader from "@/components/shared/SectionHeader";
-import { platforms } from "@/data/platforms";
+import SectionHeader from "@/src/components/shared/SectionHeader";
+import { platforms } from "@/src/data/platforms";
 
 export default function Platforms() {
   return (

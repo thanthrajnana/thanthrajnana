@@ -1,6 +1,6 @@
 import Link from "next/link";
-import SectionHeader from "@/components/shared/SectionHeader";
-import { kits } from "@/data/kits";
+import SectionHeader from "@/src/components/shared/SectionHeader";
+import { kits } from "@/src/data/kits";
 
 export default function Kits() {
   return (

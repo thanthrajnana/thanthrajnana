@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
-import { courses } from "@/data/courses";
+import Navbar from "@/src/components/layout/Navbar";
+import Footer from "@/src/components/layout/Footer";
+import { courses } from "@/src/data/courses";
 
 type CoursePageProps = {
   params: Promise<{ slug: string }>;

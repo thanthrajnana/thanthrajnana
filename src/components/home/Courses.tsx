@@ -1,6 +1,6 @@
 import Link from "next/link";
-import SectionHeader from "@/components/shared/SectionHeader";
-import { courses } from "@/data/courses";
+import SectionHeader from "@/src/components/shared/SectionHeader";
+import { courses } from "@/src/data/courses";
 
 export default function Courses() {
   return (
