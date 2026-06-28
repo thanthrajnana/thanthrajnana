@@ -1,4 +1,4 @@
-import type { Kit } from "@/types/kit";
+import type { Kit } from "@/src/types/kit";
 
 export const kits: Kit[] = [
   {

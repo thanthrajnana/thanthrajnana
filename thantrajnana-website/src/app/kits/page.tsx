@@ -1,6 +1,6 @@
-import Navbar from "@/components/layout/Navbar";
-import Footer from "@/components/layout/Footer";
-import { kits } from "@/data/kits";
+import Navbar from "@/src/components/layout/Navbar";
+import Footer from "@/src/components/layout/Footer";
+import { kits } from "@/src/data/kits";
 
 export default function KitsPage() {
   return (

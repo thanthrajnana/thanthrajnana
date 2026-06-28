@@ -1,4 +1,4 @@
-import SectionHeader from "@/components/shared/SectionHeader";
+import SectionHeader from "@/src/components/shared/SectionHeader";
 
 const reasons = [
   "Visual coding for school students",
